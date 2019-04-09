@@ -62,10 +62,10 @@ start_time: 0
 # Specify that things in the episodes collection should be output.
 collections:
   episodes:
-    output: true
+    output: false
     permalink: /:path/index.html
   extras:
-    output: true
+    output: false
     permalink: /:path/index.html
 
 # Set the default layout for things in the episodes collection.
