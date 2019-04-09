@@ -10,6 +10,7 @@
 carpentry: "dc"
 
 # Overall title for pages.
+
 title: "A workshop on structural equation modelling"
 
 
@@ -62,10 +63,10 @@ start_time: 0
 # Specify that things in the episodes collection should be output.
 collections:
   episodes:
-    output: false
+    output: true
     permalink: /:path/index.html
   extras:
-    output: false
+    output: true
     permalink: /:path/index.html
 
 # Set the default layout for things in the episodes collection.
