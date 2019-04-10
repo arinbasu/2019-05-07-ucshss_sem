@@ -282,7 +282,8 @@ please preview your site before committing, and make sure to run
 <h2 id="setup">Setup</h2>
 
 <p>
-  To participate in a
+  To participate in this
+  
   {% if page.carpentry == "swc" %}
   Software Carpentry
   {% elsif page.carpentry == "dc" %}
@@ -290,8 +291,8 @@ please preview your site before committing, and make sure to run
   {% elsif page.carpentry == "lc" %}
   Library Carpentry
   {% endif %}
-  workshop,
-  you will need an up-to-date web browser and must be connected to the Internet. If you are from UC, not an issue. If you are from another educational institution or CDHB, or ESR, and can access Eduroam on the campus, you should be fine. Otherwise, please let us know. 
+  
+  -styled workshop, you will need an up-to-date web browser and must be connected to the Internet. All software and tools will be provided at the workshop site. Your computer must be connected to the Internet at UC. 
 </p>
 <p>
   
