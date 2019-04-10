@@ -56,7 +56,7 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endif %}
 
 
-<h2 id="general">General Information</h2>
+<h2 id="general">Information about this workshop on structural equation modelling</h2>
 
 {% comment %}
 INTRODUCTION
